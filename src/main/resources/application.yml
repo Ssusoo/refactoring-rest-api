@@ -79,7 +79,7 @@ springdoc:
     groups-order: ASC
     operationsSorter: method
     path: /api-docs/swagger-ui
-  packages-to-scan: me.ssu.restapigradlerepectoring.domains
+  packages-to-scan: me.ssu.refactoringrestapi.domains
   paths-to-match: /v1/**
   use-fqn: true
   model-and-view-allowed: true

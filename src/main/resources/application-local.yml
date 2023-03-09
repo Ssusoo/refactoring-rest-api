@@ -5,7 +5,7 @@ spring:
   jpa:
     properties:
       hibernate:
-        dialect: me.ssu.restapigradlerepectoring.global.config.jpa.MySQLDialect
+        dialect: me.ssu.refactoringrestapi.global.config.jpa.MySQLDialect
 
 logging:
   level:
